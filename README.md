@@ -10,7 +10,7 @@ This report explores stock market data [1] using a data science oriented approac
 ### Keywords—Python, Clustering, Pandas 
 
 ### Jupyter Notebook
-[Stock Market Code](codes\stocks.ipynb)
+[Stock Market Code](codes/stocks.ipynb)
 
 ## I.Introduction 
 The Stock Market is a complex, wild system that many wish they could tame and understand. It is influenced by a wide range of factors and outside behaviors that all play into each stock’s price. I want to make analyzations of both predictions about how the market has & will act, and how the stock market has been affected regarding important events & purchases from important parties. A reason one might want to learn to predict the stock market based on its features & current price is so that they can take advantage of these stocks. Because if you had the ability to predict the stock market, you would have the ability to turn your money into a grand investment only through stock market purchasing and selling. Some research by Deepak Kuma, Pradeepta Kumar Sarangi, and Rajit Verma [3] suggest that with correct feature engineering and an integrated process stock market predictions could be considered more accurate.
